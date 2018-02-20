@@ -1,0 +1,4 @@
+PRODUCTO, CANTIDAD
+Pera, 3
+Naranja, 25
+Manzana, 12

@@ -1,0 +1,4 @@
+PRODUCTO, PRECIO
+Pera, 0.75
+Manzana, 0.9
+Naranja, 1

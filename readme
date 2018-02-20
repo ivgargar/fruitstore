@@ -1,0 +1,5 @@
+-Los ficheros de entrada se asumen que se encuentran en el classpath de la aplicacion
+-Se asume que los ficheros tienen un formato correcto
+-Para los ficheros de entrada se asume que la primera linea es una cabecera y se ignora en el proceso de los mismos
+-Se asume que el separador de linea en los ficheros es una coma
+-Se asume que los productos no se repiten en los ficheros de entrada
